@@ -27,7 +27,6 @@ const Intro = () => {
       
     <ReactPlayer 
     url= {noodlesVid}
-    playing
     playsinline
     loop
     muted
