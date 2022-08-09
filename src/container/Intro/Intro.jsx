@@ -29,6 +29,7 @@ const Intro = () => {
     url= {noodlesVid}
     autoplay
     playsinline
+    webkit-playsinline
     loop
     muted
     width ="100%"
