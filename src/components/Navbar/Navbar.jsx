@@ -25,7 +25,7 @@ const Navbar = () => {
     <div className="app__navbar-login">
       {/* <a href="#login" className="p__opensans">Phone: 123-456-7890</a>
       <div /> */}
-      <a href="tel: 253-230-5082" className="p__opensans">Call 123-456-7890 to Order</a>
+      <a href="/" className="p__opensans">Call 123-456-7890 to Order</a>
     </div>
     <div className="app__navbar-smallscreen">
       <GiHamburgerMenu color="#fff" fontSize={27} onClick={() => setToggleMenu(true)}>    </GiHamburgerMenu>    
