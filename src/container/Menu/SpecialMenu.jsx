@@ -38,7 +38,7 @@ const SpecialMenu = () => (
       </div>
       
       <div style={{marginTop: '15px'}}>
-        <a href="tel: 253-230-5082" className="custom__button">Call to Order</a>
+        <a href="/" className="custom__button">Call to Order</a>
       </div>
   </div>
 );
