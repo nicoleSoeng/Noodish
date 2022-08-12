@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Noodish/static/css/main.a60fec0e.css",
-    "main.js": "/Noodish/static/js/main.15ed634d.js",
+    "main.js": "/Noodish/static/js/main.695d1fbe.js",
     "static/media/meal.mp4": "/Noodish/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/gallery01.jpg": "/Noodish/static/media/gallery01.35e209fd131abf2e210e.jpg",
     "static/media/ramen2.jpg": "/Noodish/static/media/ramen2.a143ecf6a01854c0934b.jpg",
@@ -20,10 +20,10 @@
     "index.html": "/Noodish/index.html",
     "static/media/spoon.svg": "/Noodish/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
     "main.a60fec0e.css.map": "/Noodish/static/css/main.a60fec0e.css.map",
-    "main.15ed634d.js.map": "/Noodish/static/js/main.15ed634d.js.map"
+    "main.695d1fbe.js.map": "/Noodish/static/js/main.695d1fbe.js.map"
   },
   "entrypoints": [
     "static/css/main.a60fec0e.css",
-    "static/js/main.15ed634d.js"
+    "static/js/main.695d1fbe.js"
   ]
 }
