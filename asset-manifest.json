@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/Noodish/static/css/main.a60fec0e.css",
-    "main.js": "/Noodish/static/js/main.dbbc5e7e.js",
-    "static/media/meal.mp4": "/Noodish/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "main.css": "/Noodish/static/css/main.091c8167.css",
+    "main.js": "/Noodish/static/js/main.3cc781e7.js",
     "static/media/gallery01.jpg": "/Noodish/static/media/gallery01.35e209fd131abf2e210e.jpg",
     "static/media/ramen2.jpg": "/Noodish/static/media/ramen2.a143ecf6a01854c0934b.jpg",
     "static/media/noodlesVid.mp4": "/Noodish/static/media/noodlesVid.e40e9f74c2bf8639b1c5.mp4",
@@ -10,20 +9,16 @@
     "static/media/gallery04.png": "/Noodish/static/media/gallery04.c36a695f8a3b9d311106.png",
     "static/media/menu.jpg": "/Noodish/static/media/menu.c8fae5a68a0f6f4bfe22.jpg",
     "static/media/bg.jpg": "/Noodish/static/media/bg.a995693a509c05768964.jpg",
-    "static/media/chef.jpg": "/Noodish/static/media/chef.3246479de062f15af7ee.jpg",
     "static/media/findUs.jpg": "/Noodish/static/media/findUs.9ab4ab8ae90758e86cf1.jpg",
     "static/media/welcome.jpg": "/Noodish/static/media/welcome.5ced54f8713eefd4c3da.jpg",
     "static/media/overlaybg.png": "/Noodish/static/media/overlaybg.165362eea72d1614ae28.png",
     "static/media/gallery03.jpg": "/Noodish/static/media/gallery03.1cc16ec66bc8b300829b.jpg",
-    "static/media/G.png": "/Noodish/static/media/G.b571eb82e589ec305ec9.png",
-    "static/media/sign.png": "/Noodish/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/Noodish/index.html",
-    "static/media/spoon.svg": "/Noodish/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
-    "main.a60fec0e.css.map": "/Noodish/static/css/main.a60fec0e.css.map",
-    "main.dbbc5e7e.js.map": "/Noodish/static/js/main.dbbc5e7e.js.map"
+    "main.091c8167.css.map": "/Noodish/static/css/main.091c8167.css.map",
+    "main.3cc781e7.js.map": "/Noodish/static/js/main.3cc781e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.a60fec0e.css",
-    "static/js/main.dbbc5e7e.js"
+    "static/css/main.091c8167.css",
+    "static/js/main.3cc781e7.js"
   ]
 }
