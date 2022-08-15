@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Noodish/static/css/main.091c8167.css",
-    "main.js": "/Noodish/static/js/main.3cc781e7.js",
+    "main.js": "/Noodish/static/js/main.10f879f6.js",
     "static/media/gallery01.jpg": "/Noodish/static/media/gallery01.35e209fd131abf2e210e.jpg",
     "static/media/ramen2.jpg": "/Noodish/static/media/ramen2.a143ecf6a01854c0934b.jpg",
     "static/media/noodlesVid.mp4": "/Noodish/static/media/noodlesVid.e40e9f74c2bf8639b1c5.mp4",
@@ -11,14 +11,13 @@
     "static/media/bg.jpg": "/Noodish/static/media/bg.a995693a509c05768964.jpg",
     "static/media/findUs.jpg": "/Noodish/static/media/findUs.9ab4ab8ae90758e86cf1.jpg",
     "static/media/welcome.jpg": "/Noodish/static/media/welcome.5ced54f8713eefd4c3da.jpg",
-    "static/media/overlaybg.png": "/Noodish/static/media/overlaybg.165362eea72d1614ae28.png",
     "static/media/gallery03.jpg": "/Noodish/static/media/gallery03.1cc16ec66bc8b300829b.jpg",
     "index.html": "/Noodish/index.html",
     "main.091c8167.css.map": "/Noodish/static/css/main.091c8167.css.map",
-    "main.3cc781e7.js.map": "/Noodish/static/js/main.3cc781e7.js.map"
+    "main.10f879f6.js.map": "/Noodish/static/js/main.10f879f6.js.map"
   },
   "entrypoints": [
     "static/css/main.091c8167.css",
-    "static/js/main.3cc781e7.js"
+    "static/js/main.10f879f6.js"
   ]
 }
