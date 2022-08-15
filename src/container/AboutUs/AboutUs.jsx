@@ -16,8 +16,8 @@ const AboutUs = () => (
         <p className="p__opensans">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         <button type="button" className="custom__button">Know More</button>
       </div> */}
-      <div className="app__aboutus-content_knife flex__center">
-        <img src= {images.knife} alt="about_knife" />
+      <div className="app__aboutus-content_img flex__center">
+        <img src= {images.about} alt="about_img" />
       </div>
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">About Us</h1>

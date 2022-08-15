@@ -1,6 +1,6 @@
 
 
-const wines = [
+const appetizers = [
   {
     title: 'Menu Item',
     price: '$12',
@@ -28,7 +28,7 @@ const wines = [
   },
 ];
 
-const cocktails = [
+const noodles = [
   {
     title: 'Menu Item',
     price: '$20',
@@ -57,6 +57,6 @@ const cocktails = [
 ];
 
 const data = {
-  wines, cocktails
+  appetizers, noodles
 }
 export default data;

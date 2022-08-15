@@ -24,12 +24,10 @@ const Intro = () => {
 
   return (
     <div className="app__video">
-      
-    <ReactPlayer 
+     <ReactPlayer 
     url= {noodlesVid}
-    autoplay
+    playing
     playsinline
-    webkit-playsinline
     loop
     muted
     width ="100%"
@@ -40,14 +38,6 @@ const Intro = () => {
       <h1 className="headtext__cormorant">Noodish Indo-Asian Cuisine</h1>
       <a href= "#menu" className="custom__button">View Menu</a>
     </div>
-      {/* <div 
-      className="app__video-overlay_circle flex__center"
-      onClick={handleVideo}
-      >
-        {playVideo ? (
-          <BsPauseFill color="#fff" font-size={30}/>
-        ) : <BsFillPlayFill color="#fff" font-size={30} />}
-      </div> */}
     </div>
   </div>
   )

@@ -28,11 +28,11 @@
     text-align: right;
 }
 
-.app__aboutus-content_knife {
+.app__aboutus-content_img {
     margin: 2rem 4rem;
 }
 
-.app__aboutus-content_knife img {
+.app__aboutus-content_img img {
     height: 510px;
     max-width: 450px;
 }
@@ -53,7 +53,7 @@
 }
 
 @media screen and (min-width: 2000px) {
-    .app__aboutus-content_knife img {
+    .app__aboutus-content_img img {
         height: 1110px;
     }
 
@@ -69,7 +69,7 @@
         flex-direction: column-reverse;
     }
 
-    .app__aboutus-content_knife {
+    .app__aboutus-content_img {
         margin: 4rem 0;
     }
 }

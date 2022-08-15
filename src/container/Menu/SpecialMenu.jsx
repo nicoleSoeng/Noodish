@@ -15,8 +15,8 @@ const SpecialMenu = () => (
         <div className="app__specialMenu-menu_appetizers flex__center">
           <p className="app__specialMenu-menu_heading">Appetizers</p>
           <div className="app__specialMenu_menu_items">
-            {data.wines.map((wine, index) => (
-              <MenuItem key={wine.title + index} title={wine.title} price={wine.price} tags={wine.tags}/>
+            {data.appetizers.map((appetizer, index) => (
+              <MenuItem key={appetizer.title + index} title={appetizer.title} price={appetizer.price} tags={appetizer.tags}/>
             ))}
           </div>
         </div>
@@ -29,8 +29,8 @@ const SpecialMenu = () => (
         <div className="app__specialMenu-menu_noodles flex__center">
           <p className="app__specialMenu-menu_heading">Noodles</p>
           <div className="app__specialMenu_menu_items">
-            {data.cocktails.map((cocktail, index) => (
-               <MenuItem key={cocktail.title + index} title={cocktail.title}  price={cocktail.price} tags={cocktail.tags}/>
+            {data.noodles.map((noodle, index) => (
+               <MenuItem key={noodle.title + index} title={noodle.title}  price={noodle.price} tags={noodle.tags}/>
             ))}
           </div>
         </div>
@@ -38,7 +38,7 @@ const SpecialMenu = () => (
       </div>
       
       <div style={{marginTop: '15px'}}>
-        <a href="/" className="custom__button">Call to Order</a>
+        <button className="custom__button">Call to Order</button>
       </div>
   </div>
 );

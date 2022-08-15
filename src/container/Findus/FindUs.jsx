@@ -13,7 +13,7 @@ const FindUs = () => (
         <p className="p__opensans">Sun - Thurs: 10:00am - 09:00pm</p>
         <p className="p__opensans">Fri - Sat: 10:00am - 11:00pm</p>
       </div>
-      <a href="tel: 253-230-5082" className="custom__button" style={{marginTop: '2rem'}}>Contact Us</a>
+      <button className="custom__button" style={{marginTop: '2rem'}}>Contact Us</button>
     </div>
     <div className="app__wrapper_img">
       <img src={images.findus} alt="findus" />
